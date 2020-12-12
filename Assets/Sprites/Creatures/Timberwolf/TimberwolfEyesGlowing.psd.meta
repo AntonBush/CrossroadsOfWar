@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: 9412ce4cbd5caaa4fae61ec954fe2673
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TimberwolfEyesGlowing_0
+    21300002: TimberwolfEyesGlowing_1
+    21300004: TimberwolfEyesGlowing_2
+    21300006: TimberwolfEyesGlowing_3
+    21300008: TimberwolfEyesGlowing_4
+    21300010: TimberwolfEyesGlowing_5
+    21300012: TimberwolfEyesGlowing_6
+    21300014: TimberwolfEyesGlowing_7
+    21300016: TimberwolfEyesGlowing_8
+    21300018: TimberwolfEyesGlowing_9
+    21300020: TimberwolfEyesGlowing_10
+    21300022: TimberwolfEyesGlowing_11
+    21300024: TimberwolfEyesGlowing_12
+    21300026: TimberwolfEyesGlowing_13
+    21300028: TimberwolfEyesGlowing_14
+    21300030: TimberwolfEyesGlowing_15
+    21300032: TimberwolfEyesGlowing_16
+    21300034: TimberwolfEyesGlowing_17
+    21300036: TimberwolfEyesGlowing_18
+    21300038: TimberwolfEyesGlowing_19
+    21300040: TimberwolfEyesGlowing_20
+    21300042: TimberwolfEyesGlowing_21
+    21300044: TimberwolfEyesGlowing_22
+    21300046: TimberwolfEyesGlowing_23
+    21300048: TimberwolfEyesGlowing_24
+    21300050: TimberwolfEyesGlowing_25
+    21300052: TimberwolfEyesGlowing_26
+    21300054: TimberwolfEyesGlowing_27
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32141e8c344edbc4bae528c74c629787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 244
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d58945bc68e06479c942c14e29835f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 244
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ef9d59b893f5b489049a2b3286967d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a901044d8bda6e4788e66dfe3c9fd74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 183
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a95400dadc46b044bb474907185344c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 183
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a485b2a20765f43ab97272eb409917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 183
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e73407e21c2a34c8d9aa80e580d010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_7
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 183
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e255f5b907b584f80f56d2b1fcf644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_8
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 183
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c4e7a9961ca25429b69f55d9f939f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_9
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 183
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535ed8f942ddb38479936759be16f23d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_10
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 183
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af82d312446f99419fcf009ec152132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_11
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 183
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d630a97baa6097478c2e34945e5b749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efabd5d62a6aba49866ffa34aa92602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 122
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b72958cdb34ad742ac53a63813ada81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 122
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac0c88c25258964bb2fadd62a04d18c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 122
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9290cc66c7d9952468a185bf496d4256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_16
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 122
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b88ac84667e2d449f5e822cbb69c5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_17
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 122
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fce5c4e8d3f2bd4b918d64d681061c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dfdf4a4431ee44f8a0022ec68c8fa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 61
+        width: 101
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5744ee00387da1944891f8377a40433c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 61
+        width: 101
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a993bcebf85d53f4f838937c436f5e5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 61
+        width: 101
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e77af7351c22c49b6012e0255c3827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_22
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 61
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cd3816778093b438d4ec8014b708b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c57db28ee397fe45bab2dda2ede723c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 101
+        height: 61
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5068ec5f4132dda4d8fa3542ac4bc491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 101
+        height: 61
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8491b9f86be11d24c8b3cf4dad2122aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_26
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 101
+        height: 61
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6629e781b31dae94698c9bfac784dec0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimberwolfEyesGlowing_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 101
+        height: 61
+      alignment: 9
+      pivot: {x: 0.49, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925934c68237b374784e0a20707c1b63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 61813ccec4cf9b1448258f9ee848c70f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: TimberEyesGlowAnimator
+  m_Controller: {fileID: 9100000, guid: 49ba2dd5ca42ef74280e59a72a7b81e4, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 97c9223249a13a642b807ac858a60ce4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cf4bb6bdca67738458e4c80c3335646b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: cbac7de8fad0bec458d85bc08dd59503, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a85c1cfa697a60743a05604e18f89f1c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a75cb498b9b148b469baa6d43edadb8f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 41a3c58c4ed086343a2f57115b5238b0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a7cad9f5027a9974ba1247d8dd47954c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b55bac080334f1c49bc5f1fc7f678f16, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f167f6f8b3f77d24eab56d7bd14f0559, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0636d4f8df6a98147b03da023b6fe7cb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a96f2d0ad190f4a4e888b024e6cb923a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 848e393666af81243bc44e297317f9be, type: 2}
